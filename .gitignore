@@ -1,5 +1,8 @@
 ./Makefile
 ./Makefile.in
+Makefile
+Makefile.in
+libcsv.pc
 aclocal.m4
 autom4te.cache/
 config.log
@@ -19,3 +22,4 @@ windows/*.exe
 windows/*.obj
 windows/*.a
 windows/*.lib
+
